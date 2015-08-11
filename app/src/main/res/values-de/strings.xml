@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailySelfie</string>
+    <string name="action_take_picture">Foto aufnehmen</string>
+    <string name="action_stop_alarm">Erinnerung stoppen</string>
+    <string name="action_start_alarm">Erinnerung starten</string>
+    <string name="title_activity_detail">Selfie</string>
+    <string name="action_ok">Schließen</string>
+    <string name="notification_title">Daily Selfie</string>
+    <string name="notification_text">Zeit für einen weiteren Selfie</string>
+    <string name="message_no_external_storage">Kein externer Speicher verfügbar</string>
+    <string name="message_reminder_stopped">Erinnerung gestoppt</string>
+    <string name="message_reminder_started">Erinnerung gestartet</string>
+    <string name="message_picture_not_taken">Kein Foto aufgenommen</string>
+    <string name="message_picture_error">Aufnahme fehlgeschlagen</string>
+
+</resources>
